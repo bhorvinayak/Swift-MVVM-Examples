@@ -10,4 +10,6 @@ import UIKit
 
 class NewsFeedCollectionViewCell: UICollectionViewCell {
     
+     @IBOutlet weak var titleLbl: UILabel!
+    
 }
